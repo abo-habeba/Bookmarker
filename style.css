@@ -1,0 +1,29 @@
+.min{
+  background-color: #eeeeee;
+}
+label{
+  width: 100%;
+  font-weight: bold;
+  padding: 5px 0;
+  margin: 15px 0;
+}
+.min input{
+  border-radius: 5px;
+  border: 1px solid #DDD;
+  padding: 5px;
+  width: 80%;
+  margin: auto;
+  font-size: 15px;
+  width: 100%;
+}
+.outboat{
+  background-image: linear-gradient(#EEE,#FFF);
+  margin: 10px 0;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+}
+footer p ,
+h1{
+  color: #AAA;
+}
